@@ -7,4 +7,7 @@ spring:
     config:
       server:
         git:
-         
+          uri: 
+          username: 
+          password:
+          clone-on-start: true
